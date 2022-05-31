@@ -38,4 +38,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rida-najjari/">LinkedIn</a>
+- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/rida_najjari">Twitter</a>
 
