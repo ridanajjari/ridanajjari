@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Mobile devolper / Web  at iwaco (inwi) .
+- 💼 &nbsp; Working as working as a freelancer .
 - 🌱 &nbsp; Learning more about Cloud Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
