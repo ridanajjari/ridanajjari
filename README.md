@@ -2,7 +2,7 @@
 
 **Salesforce Consultant · Apex / LWC Developer · Salesforce Administrator · 4x Certified**
 
-📍 Paris, France · Open to roles in France and Morocco
+📍 Paris, France · Open to roles worldwide
 
 Engineer with close to 4 years in IT, working on both sides of Salesforce: development (Apex, Lightning Web Components, SOQL, Flow, REST integrations) and administration, across Sales Cloud, Service Cloud and Experience Cloud.
 
