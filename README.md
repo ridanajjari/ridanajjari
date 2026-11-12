@@ -6,9 +6,7 @@
 
 Engineer with close to 4 years in IT, working on both sides of Salesforce: development (Apex, Lightning Web Components, SOQL, Flow, REST integrations) and administration, across Sales Cloud, Service Cloud and Experience Cloud.
 
-- 💼 &nbsp; Salesforce Consultant at **Vulcain Engineering Group** (Neuilly-sur-Seine)
-- 🎓 &nbsp; Finishing a Data Engineer degree (Bac+5) at Institut F2i, Paris
-- 🔎 &nbsp; Looking for a permanent role (CDI) as Salesforce Consultant, Developer or Administrator
+- 💼 &nbsp; Salesforce Consultant 
 
 <h3>🏅 &nbsp;Salesforce Certifications</h3>
 
