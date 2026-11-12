@@ -17,14 +17,6 @@ Engineer with close to 4 years in IT, working on both sides of Salesforce: devel
 ![Platform Developer I](https://img.shields.io/badge/Certified-Platform%20Developer%20I-00A1E0?style=flat)
 ![Associate](https://img.shields.io/badge/Certified-Associate-00A1E0?style=flat)
 
-<h3>🚀 &nbsp;Salesforce Projects</h3>
-
-| Project | What it does | Key tech |
-| --- | --- | --- |
-| [case-escalation-automation](https://github.com/ridanajjari/case-escalation-automation) | Escalates the priority of Cases that breach their SLA, with partial-success updates, an error log, and Chatter + email alerts | Batch Apex, Schedulable, `Database.Stateful`, 7 unit tests (bulk 200) |
-| [lead-auto-assignment](https://github.com/ridanajjari/lead-auto-assignment) | Assigns Leads automatically by industry and country, with rules an admin can change without a deployment | Apex Trigger, Trigger Handler pattern, Custom Metadata Types, 8 unit tests (bulk 200) |
-| [lwc-kpi-dashboard](https://github.com/ridanajjari/lwc-kpi-dashboard) | KPI dashboard (pipeline, lead conversion rate, open cases) for Home, App and Record pages, loaded in a single server call | LWC, `@AuraEnabled` Apex `with sharing`, SOQL aggregates |
-| [salesforce-api-integration](https://github.com/ridanajjari/salesforce-api-integration) | Calls an external REST API and updates Accounts, with HTTP status handling and typed exceptions | Apex callouts, Named Credentials, JSON parsing, `HttpCalloutMock` tests |
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
