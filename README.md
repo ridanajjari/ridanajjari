@@ -1,44 +1,58 @@
-### Hi there 👋
+<h2>Hi, I'm Rida Najjari 👋</h2>
 
-<h2> Hey there! I'm Rida Najjari.</h2>
+**Salesforce Consultant · Apex / LWC Developer · Salesforce Administrator · 4x Certified**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+📍 Paris, France · Open to roles in France and Morocco
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as  a freelancer .
-- 🌱 &nbsp; Learning more about Cloud Architecture.
+Engineer with close to 4 years in IT, working on both sides of Salesforce: development (Apex, Lightning Web Components, SOQL, Flow, REST integrations) and administration, across Sales Cloud, Service Cloud and Experience Cloud.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 💼 &nbsp; Salesforce Consultant at **Vulcain Engineering Group** (Neuilly-sur-Seine)
+- 🎓 &nbsp; Finishing a Data Engineer degree (Bac+5) at Institut F2i, Paris
+- 🔎 &nbsp; Looking for a permanent role (CDI) as Salesforce Consultant, Developer or Administrator
 
+<h3>🏅 &nbsp;Salesforce Certifications</h3>
+
+![Platform Administrator](https://img.shields.io/badge/Certified-Platform%20Administrator-00A1E0?style=flat)
+![Platform App Builder](https://img.shields.io/badge/Certified-Platform%20App%20Builder-00A1E0?style=flat)
+![Platform Developer I](https://img.shields.io/badge/Certified-Platform%20Developer%20I-00A1E0?style=flat)
+![Associate](https://img.shields.io/badge/Certified-Associate-00A1E0?style=flat)
+
+<h3>🚀 &nbsp;Salesforce Projects</h3>
+
+| Project | What it does | Key tech |
+| --- | --- | --- |
+| [case-escalation-automation](https://github.com/ridanajjari/case-escalation-automation) | Escalates the priority of Cases that breach their SLA, with partial-success updates, an error log, and Chatter + email alerts | Batch Apex, Schedulable, `Database.Stateful`, 7 unit tests (bulk 200) |
+| [lead-auto-assignment](https://github.com/ridanajjari/lead-auto-assignment) | Assigns Leads automatically by industry and country, with rules an admin can change without a deployment | Apex Trigger, Trigger Handler pattern, Custom Metadata Types, 8 unit tests (bulk 200) |
+| [lwc-kpi-dashboard](https://github.com/ridanajjari/lwc-kpi-dashboard) | KPI dashboard (pipeline, lead conversion rate, open cases) for Home, App and Record pages, loaded in a single server call | LWC, `@AuraEnabled` Apex `with sharing`, SOQL aggregates |
+| [salesforce-api-integration](https://github.com/ridanajjari/salesforce-api-integration) | Calls an external REST API and updates Accounts, with HTTP status handling and typed exceptions | Apex callouts, Named Credentials, JSON parsing, `HttpCalloutMock` tests |
+
+<h3>🛠 &nbsp;Tech Stack</h3>
+
+- ⚡ &nbsp; **Salesforce development:** Apex (Triggers, Batch, Schedulable, test classes), SOQL, Lightning Web Components, Aura, Visualforce, Flow (Record-Triggered, Scheduled), REST API, Named Credentials, Custom Metadata Types
+- 🧩 &nbsp; **Salesforce administration:** users, profiles, roles, permission sets, sharing model, validation rules, custom objects, record types, page layouts, Lightning App Builder, reports and dashboards
+- ☁️ &nbsp; **Clouds:** Sales Cloud, Service Cloud, Experience Cloud
+- 🔄 &nbsp; **Data and DevOps:** Data Loader, Workbench, Salesforce Inspector, Salesforce CLI (SFDX), Change Sets, GitLab CI/CD, Jenkins
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rida-najjari/">LinkedIn</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/rida_najjari">Twitter</a>
+<h3>💼 &nbsp;Experience</h3>
 
+- **Salesforce Consultant** · Vulcain Engineering Group · Jan 2026 – Present
+- **Technical Support Engineer** · Dell Technologies · Sep 2023 – Dec 2025
+- **Software Engineer** · Sofrecom · Oct 2022 – Apr 2023
+
+<h3>🌍 &nbsp;Languages</h3>
+
+French (fluent) · English (fluent) · Arabic (native)
+
+<h3>📫 &nbsp;Get in touch</h3>
+
+- 💼 &nbsp; <a href="https://www.linkedin.com/in/rida-najjari/">LinkedIn</a>
+- ✉️ &nbsp; <a href="mailto:najjaririda6@gmail.com">najjaririda6@gmail.com</a>
